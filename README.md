@@ -1,17 +1,7 @@
-<h1>KPK MOBILE KIBA013</h1>
+# KPK MOBILE KIBA013
 
-<a href="https://raw.githubusercontent.com/kiba013/kpk_mobile/main/CntWriteGas_v1.0.6.0.apk">
-    Скачать АРМ Контроллер v1.0.6.0
-</a>
+## Скачать приложения
 
-<br><br>
+- [АРМ Контроллер v1.0.7.0](https://github.com/kiba013/kpk_mobile/releases/latest/download/CntWriteGas_v1.0.7.0.apk)
 
-<a href="https://raw.githubusercontent.com/kiba013/kpk_mobile/main/CntWriteGas_v1.0.7.0.apk">
-    Скачать АРМ Контроллер v1.0.7.0
-</a>
-
-<br><br>
-
-<a href="https://raw.githubusercontent.com/kiba013/kpk_mobile/main/AlmatyARM%201.0.4.apk">
-    Скачать АРЦ ГАЗ (зеленый)
-</a>
+- [АРЦ ГАЗ (зеленый)](https://github.com/kiba013/kpk_mobile/releases/latest/download/AlmatyARM_1.0.4.apk)

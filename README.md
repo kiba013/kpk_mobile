@@ -2,6 +2,12 @@
 
 ## Скачать приложения
 
+- [NEW KPK Mobile v1.4.17](https://github.com/kiba013/kpk_mobile/releases/tag/v1.4.17)
+  
+- [NEW KPK Mobile v1.4.12](https://github.com/kiba013/kpk_mobile/releases/tag/v1.4.12)
+
+
+
 - [АРМ Контроллер v1.0.7.0](https://github.com/kiba013/kpk_mobile/releases/tag/v1.0.7.0)
 
 
